@@ -1,1 +1,1 @@
-Put help documentation here.
+See the README.md file (or go to https://github.com/samrawal/noteterm) for more information.
