@@ -23,6 +23,9 @@ note -about 		|	About this tool
 
 ### Setup
 First, clone the repository:
+
 `git clone git@github.com:samrawal/noteterm.git`
+
 Then, create a symbolic link to the script so that the 'note' command can be used anywhere.
+
 `ln -s $PWD/noteterm.py /usr/local/bin/note`
