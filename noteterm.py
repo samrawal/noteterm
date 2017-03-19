@@ -5,7 +5,7 @@ import time
 from os import listdir, path, makedirs
 import os
 
-notesdir = os.path.realpath(__file__)[:-7]
+notesdir = os.path.realpath(__file__)[:-11]
 
 def print_file(filepath):
    filecontent = ""

@@ -1,0 +1,14 @@
+Usage:
+----------
+note				View this information
+note -help			More information about noteterm
+note -add (-a) ["title"]	Add new note with optional title
+note -view (-v)			View summary of all notes
+note -view (-v) ["title"]	Search for notes with particular title
+
+Advanced:
+----------
+note ["title"]			If a note(s) with this title exists, show note;
+     				otherwise, create a note with title
+note -dir			Print directory of note text files
+note -about			About this tool
