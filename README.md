@@ -1,9 +1,10 @@
 # noteterm
 noteterm is a Python wrapper to quickly and efficiently create and view notes in the terminal. All notes are stored as .txt files and can be easily exported.
 
-### Usage
 
-##### Basic
+## Usage
+
+#### Basic
 
 |command  | functionality|
 |----------|-------|
@@ -13,6 +14,7 @@ note -add (-a) ["title"] |	Add new note with optional title
 note -view (-v)	|		View summary of all notes
 note -view (-v) ["title"]|	Search for notes with particular title
 
+
 #### Advanced
 |command  | functionality|
 |----------|-------|
@@ -21,7 +23,8 @@ note -dir   	|		Print directory of note text files
 note -about 		|	About this tool
 
 
-### Setup
+## Setup
+
 First, clone the repository:
 
 `git clone git@github.com:samrawal/noteterm.git`
