@@ -32,3 +32,9 @@ First, clone the repository:
 Then, create a symbolic link to the script so that the 'note' command can be used anywhere.
 
 `ln -s $PWD/noteterm.py /usr/local/bin/note`
+
+
+## Todo
+
+* Wildcards when searching for notes
+* Note tags
