@@ -4,6 +4,7 @@ import sys
 import time
 from os import listdir, path, makedirs
 import os
+import readline
 
 notesdir = os.path.realpath(__file__)[:-11]
 
